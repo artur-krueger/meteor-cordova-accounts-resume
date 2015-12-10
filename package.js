@@ -12,7 +12,7 @@ Package.describe({
  * Cordova plugin dependencies
  */
 Cordova.depends({
-    'org.apache.cordova.file': '1.3.3'
+    'cordova-plugin-file': '4.0.0'
 });
 
 /**
